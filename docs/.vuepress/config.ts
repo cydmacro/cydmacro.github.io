@@ -21,7 +21,7 @@ export default defineUserConfig({
     ],
 
     // 打包后html内部资源访问路径
-    base:'./',
+    base:'./cydmacro/',
     // 打包后的文件放哪
     dest:"dist/",
     lang: 'zh-CN',
